@@ -6,4 +6,6 @@ This is my second unity project. You can open this project in unity and make cha
 
 Build folder contails the project that you can run on various platforms including web, windows and android.
 
+Run WebGL file using Microsoft Edge Browser.
+
 Thank you...
